@@ -24,6 +24,6 @@ The project was brought to life using the following technologies and tools:
 
 ## Deployment
 
-[Play "Rock, Paper, Scissors" now](https://vladdlevshuk.github.io/Rock-Paper-Scissors/)
+[Play "Rock, Paper, Scissors" now](https://vladdlevshuk.github.io/rock-paper-scissors/)
 
 Have fun and enjoy the game! 🎮🪨📄✂️🔊
